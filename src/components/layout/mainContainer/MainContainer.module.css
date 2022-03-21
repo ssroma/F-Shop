@@ -1,0 +1,8 @@
+.container {
+  max-width: 99%;
+  padding: 2rem 0rem;
+  margin: 4rem auto 0px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
